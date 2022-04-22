@@ -1,0 +1,14 @@
+#title{
+    text-align: center;
+}
+#description{
+    text-align: center;
+}
+/* div{
+    display: flex;
+    align-items: center;
+} */
+#survey-form{
+    margin: auto;
+    width: 220px;
+}
